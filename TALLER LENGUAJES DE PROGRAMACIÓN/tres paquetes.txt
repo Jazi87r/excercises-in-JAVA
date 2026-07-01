@@ -1,0 +1,10 @@
+tres paquetes
+vista 
+-se pregunta por
+-se pinta el menu
+logica
+-insertar
+-buscar en el secuencial
+bin
+-se ingresan los datos al objeto
+-el objeto en si
